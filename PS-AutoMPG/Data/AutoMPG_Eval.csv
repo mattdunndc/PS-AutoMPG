@@ -1,101 +1,101 @@
 "cylinders","displacement","horsepower","weight","acceleration","year","origin","name","mpg"
-4,97,92,2288,17,72,3,datsun 510 (sw),28
-4,97,78,2190,14.1,77,2,volkswagen dasher,30.5
-4,134,95,2515,14.8,78,3,toyota celica gt liftback,21.1
-8,351,152,4215,12.8,76,1,ford gran torino,14.5
-8,400,150,4464,12,73,1,chevrolet caprice classic,13
-8,318,150,4077,14,72,1,plymouth satellite custom (sw),14
-8,350,145,4082,13,73,1,chevrolet monte carlo s,15
-4,120,75,2542,17.5,80,3,mazda 626,31.3
-4,98,80,1915,14.4,79,1,dodge colt hatchback custom,35.7
-6,225,95,3785,19,75,1,plymouth fury,18
-4,122,85,2310,18.5,73,1,ford pinto,19
-4,98,83,2075,15.9,77,1,dodge colt m/m,33.5
-4,76,52,1649,16.5,74,3,toyota corona,31
-8,260,110,3365,15.5,78,1,oldsmobile cutlass salon brougham,19.9
-4,108,93,2391,15.5,74,3,subaru,26
-4,98,?,2046,19,71,1,ford pinto,25
-4,97,88,2100,16.5,72,3,toyota corolla 1600 (sw),27
-4,97,88,2279,19,73,3,toyota carina,20
-4,134,95,2560,14.2,78,3,toyota corona,27.5
-6,200,85,3070,16.7,78,1,mercury zephyr,20.8
-8,318,150,4190,13,76,1,dodge coronet brougham,16
-4,100,?,2320,15.8,81,2,renault 18i,34.5
-4,121,110,2660,14,73,2,saab 99le,24
-8,318,150,4237,14.5,73,1,plymouth fury gran sedan,14
-4,151,84,2635,16.4,81,1,buick skylark,26.6
-4,120,88,3270,21.9,76,2,peugeot 504,19
-4,97,67,1985,16.4,77,3,subaru dl,30
-8,383,180,4955,11.5,71,1,dodge monaco (sw),12
-8,305,140,4215,13,76,1,chevrolet chevelle malibu classic,17.5
-6,250,110,3645,16.2,76,1,pontiac ventura sj,18.5
-6,225,95,3264,16,75,1,plymouth valiant custom,19
-6,232,90,3211,17,75,1,amc pacer,19
-8,350,165,4274,12,72,1,chevrolet impala,13
-6,199,90,2648,15,70,1,amc gremlin,21
-8,307,130,4098,14,72,1,chevrolet chevelle concours (sw),13
-8,400,170,4746,12,71,1,ford country squire (sw),13
-4,134,90,2711,15.5,80,3,toyota corona liftback,29.8
-4,97,75,2171,16,75,3,toyota corolla,29
+4,85,70,1990,17,76,3,datsun b-210,32
+4,98,60,2164,22.1,76,1,chevrolet woody,24.5
+8,351,148,4657,13.5,75,1,ford ltd,14
 4,121,113,2234,12.5,70,2,bmw 2002,26
-4,79,58,1825,18.6,77,2,renault 5 gtl,36
-6,225,100,3430,17.2,78,1,plymouth volare,20.5
-4,107,75,2205,14.5,82,3,honda accord,36
-6,200,?,2875,17,74,1,ford maverick,21
-8,350,145,4440,14,75,1,chevrolet bel air,15
-4,90,75,2108,15.5,74,2,fiat 128,24
-4,97,75,2155,16.4,76,3,toyota corolla,28
-4,97,46,1950,21,73,2,volkswagen super beetle,26
-4,91,68,2025,18.2,82,3,mazda glc custom l,37
-4,108,94,2379,16.5,73,3,datsun 610,22
-4,140,83,2639,17,75,1,ford pinto,23
-4,116,75,2158,15.5,73,2,opel manta,24
-8,350,155,4502,13.5,72,1,buick lesabre custom,13
-4,116,75,2246,14,74,2,fiat 124 tc,26
-6,250,72,3158,19.5,75,1,ford maverick,15
-3,70,97,2330,13.5,72,3,mazda rx2 coupe,19
-8,260,90,3420,22.2,79,1,oldsmobile cutlass salon brougham,23.9
-4,98,70,2120,15.5,80,1,chevrolet chevette,32.1
-4,81,60,1760,16.1,81,3,honda civic 1300,35.1
-4,108,70,2245,16.9,82,3,toyota corolla,34
-4,151,85,2855,17.6,78,1,oldsmobile starfire sx,23.8
-4,146,67,3250,21.8,80,2,mercedes-benz 240d,30
-4,120,97,2506,14.5,72,3,toyouta corona mark ii (sw),23
-4,86,64,1875,16.4,81,1,plymouth champ,39
-6,258,110,3730,19,75,1,amc matador,15
-6,155,107,2472,14,73,1,mercury capri v6,21
-8,400,230,4278,9.5,73,1,pontiac grand prix,16
-4,105,74,1980,15.3,82,2,volkswagen rabbit l,36
-8,454,220,4354,9,70,1,chevrolet impala,14
-4,68,49,1867,19.5,73,2,fiat 128,29
-4,135,84,2490,15.7,81,1,plymouth reliant,27.2
-4,120,74,2635,18.3,81,3,mazda 626,31.6
-4,89,62,2050,17.3,81,3,toyota tercel,37.7
-4,110,87,2672,17.5,70,2,peugeot 504,25
-4,151,90,2670,16,79,1,buick skylark limited,28.4
-8,455,225,4951,11,73,1,buick electra 225 custom,12
-6,250,105,3897,18.5,75,1,chevroelt chevelle malibu,16
-8,318,150,3940,13.2,76,1,plymouth volare premier v8,13
-4,105,63,2125,14.7,82,1,plymouth horizon miser,38
-4,121,110,2600,12.8,77,2,bmw 320i,21.5
-4,112,88,2640,18.6,82,1,chevrolet cavalier wagon,27
-4,140,72,2401,19.5,73,1,chevrolet vega,21
-4,85,65,2020,19.2,79,3,datsun 210,31.8
-8,350,180,4380,12.1,76,1,cadillac seville,16.5
-8,304,150,4257,15.5,74,1,amc matador (sw),14
-8,304,150,3672,11.5,72,1,amc ambassador sst,17
-6,231,105,3380,15.8,78,1,buick century special,20.6
-6,250,105,3459,16,75,1,chevrolet nova,18
-4,122,80,2451,16.5,74,1,ford pinto,26
-6,200,88,3060,17.1,81,1,ford granada gl,20.2
-3,70,100,2420,12.5,80,3,mazda rx-7 gs,23.7
-4,151,90,2556,13.2,79,1,pontiac phoenix,33.5
-4,91,68,1985,16,81,3,mazda glc 4,34.1
-4,107,72,2290,17,80,3,honda accord,32.4
-4,90,70,1937,14.2,76,2,vw rabbit,29
 6,250,72,3432,21,75,1,mercury monarch,15
-6,168,120,3820,16.7,76,2,mercedes-benz 280s,16.5
-8,350,125,3900,17.4,79,1,cadillac eldorado,23
-6,232,100,2789,15,73,1,amc gremlin,18
-6,163,133,3410,15.8,78,2,peugeot 604sl,16.2
+4,85,65,2110,19.2,80,3,datsun 210,40.8
+8,440,215,4312,8.5,70,1,plymouth fury iii,14
+8,302,140,4638,16,74,1,ford gran torino (sw),14
+4,112,88,2640,18.6,82,1,chevrolet cavalier wagon,27
+8,318,150,4457,13.5,74,1,dodge coronet custom (sw),14
+6,250,100,3781,17,74,1,chevrolet chevelle malibu classic,16
+8,360,150,3940,13,79,1,chrysler lebaron town @ country (sw),18.5
+8,351,149,4335,14.5,77,1,ford thunderbird,16
+4,140,72,2408,19,71,1,chevrolet vega (sw),22
+4,135,84,2295,11.6,82,1,dodge rampage,32
+4,122,88,2500,15.1,80,2,triumph tr7 coupe,35
+4,107,90,2430,14.5,70,2,audi 100 ls,24
+4,140,92,2572,14.9,76,1,capri ii,25
+4,120,97,2506,14.5,72,3,toyouta corona mark ii (sw),23
+8,302,130,4295,14.9,77,1,mercury cougar brougham,15
+4,121,80,2670,15,79,1,amc spirit dl,27.4
+4,119,92,2434,15,80,3,datsun 510 hatchback,37
+4,97,75,2265,18.2,77,3,toyota corolla liftback,26
+6,198,95,2833,15.5,70,1,plymouth duster,22
+4,116,81,2220,16.9,76,2,opel 1900,25
+6,232,90,3210,17.2,78,1,amc concord,19.4
+4,89,71,1990,14.9,78,2,volkswagen scirocco,31.5
+8,318,140,4080,13.7,78,1,dodge magnum xe,17.5
+4,90,71,2223,16.5,75,2,volkswagen dasher,25
+6,156,108,2930,15.5,76,3,toyota mark ii,19
+8,304,120,3962,13.9,76,1,amc matador,15.5
+8,350,160,4456,13.5,72,1,oldsmobile delta 88 royale,12
+4,119,97,2405,14.9,78,3,datsun 200-sx,23.9
+8,302,139,3570,12.8,78,1,mercury monarch ghia,20.2
+8,302,129,3169,12,75,1,ford mustang ii,13
+6,146,97,2815,14.5,77,3,datsun 810,22
+4,97,92,2288,17,72,3,datsun 510 (sw),28
+8,267,125,3605,15,79,1,chevrolet malibu classic (sw),19.2
+4,156,105,2800,14.4,80,1,dodge colt,27.9
+6,225,90,3381,18.7,80,1,dodge aspen,19.1
+8,307,200,4376,15,70,1,chevy c20,10
+4,151,?,3035,20.5,82,1,amc concord dl,23
+4,104,95,2375,17.5,70,2,saab 99e,25
+4,79,67,2000,16,74,2,fiat x1.9,31
+6,231,105,3425,16.9,77,1,buick skylark,20.5
+4,98,90,2265,15.5,73,2,fiat 124 sport coupe,26
+4,85,70,2070,18.6,78,3,datsun b210 gx,39.4
+4,85,?,1835,17.3,80,2,renault lecar deluxe,40.9
+6,232,112,2835,14.7,82,1,ford granada l,22
+4,68,49,1867,19.5,73,2,fiat 128,29
+8,302,130,3870,15,76,1,ford f108,13
+6,168,116,2900,12.6,81,3,toyota cressida,25.4
+4,134,95,2560,14.2,78,3,toyota corona,27.5
+6,231,105,3535,19.2,78,1,pontiac phoenix lj,19.2
+6,173,110,2725,12.6,81,1,chevrolet citation,23.5
+4,90,48,1985,21.5,78,2,volkswagen rabbit custom diesel,43.1
+4,98,?,2046,19,71,1,ford pinto,25
+8,400,170,4746,12,71,1,ford country squire (sw),13
+8,360,215,4615,14,70,1,ford f250,10
+4,90,70,1937,14,75,2,volkswagen rabbit,29
+8,318,150,4237,14.5,73,1,plymouth fury gran sedan,14
+8,455,225,4425,10,70,1,pontiac catalina,14
+8,350,145,4082,13,73,1,chevrolet monte carlo s,15
+4,120,87,2979,19.5,72,2,peugeot 504 (sw),21
+8,400,150,4997,14,73,1,chevrolet impala,11
+6,258,110,2962,13.5,71,1,amc hornet sportabout (sw),18
+4,121,112,2933,14.5,72,2,volvo 145e (sw),18
+6,168,132,2910,11.4,80,3,datsun 280-zx,32.7
+4,79,67,1963,15.5,74,2,volkswagen dasher,26
+4,134,95,2515,14.8,78,3,toyota celica gt liftback,21.1
+6,258,110,3730,19,75,1,amc matador,15
+6,225,100,3430,17.2,78,1,plymouth volare,20.5
+4,120,74,2635,18.3,81,3,mazda 626,31.6
+4,113,95,2228,14,71,3,toyota corona,25
+4,91,68,2025,18.2,82,3,mazda glc custom l,37
+8,350,145,4440,14,75,1,chevrolet bel air,15
+8,318,150,4096,13,71,1,plymouth fury iii,14
+6,232,90,3085,17.6,76,1,amc hornet,22.5
+4,140,72,2401,19.5,73,1,chevrolet vega,21
+4,121,98,2945,14.5,75,2,volvo 244dl,22
+6,225,105,3121,16.5,73,1,plymouth valiant,18
+4,97,67,2145,18,80,3,subaru dl,33.8
+4,140,86,2790,15.6,82,1,ford mustang gl,27
+8,307,130,4098,14,72,1,chevrolet chevelle concours (sw),13
+6,232,100,2945,16,73,1,amc hornet,18
+8,318,140,3735,13.2,78,1,dodge diplomat,19.4
+4,151,90,2556,13.2,79,1,pontiac phoenix,33.5
+8,340,160,3609,8,70,1,plymouth 'cuda 340,14
+4,108,93,2391,15.5,74,3,subaru,26
+8,302,129,3725,13.4,79,1,ford ltd landau,17.6
+4,140,89,2755,15.8,77,1,ford mustang ii 2+2,25.5
 8,400,180,4220,11.1,77,1,pontiac grand prix lj,16
+4,140,75,2542,17,74,1,chevrolet vega,25
+6,250,88,3021,16.5,73,1,ford maverick,18
+6,225,110,3620,18.7,78,1,dodge aspen,18.6
+4,122,80,2451,16.5,74,1,ford pinto,26
+4,83,61,2003,19,74,3,datsun 710,32
+8,318,135,3830,15.2,79,1,dodge st. regis,18.2
+6,232,90,3211,17,75,1,amc pacer,19
+4,116,75,2246,14,74,2,fiat 124 tc,26
